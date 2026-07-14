@@ -24,6 +24,8 @@ This repository contains a collection of Power BI dashboards built using differe
 - KPI cards
 - Interactive filtering
 
+**Interactive Dashboard link**: https://app.powerbi.com/links/M5zxJwCC3J?ctid=e09fb069-f13f-45eb-9019-118c726f273d&pbi_source=linkShare
+
 ---
 
 ## 2. AdventureWorks Executive Dashboard
@@ -45,6 +47,8 @@ This repository contains a collection of Power BI dashboards built using differe
 - Forecasting
 - Conditional formatting
 - Dashboard design
+
+**Interactive Dashboard link**: https://app.powerbi.com/links/t--oNh3KDn?ctid=e09fb069-f13f-45eb-9019-118c726f273d&pbi_source=linkShare&bookmarkGuid=fb6aac40-2d16-45df-bdc3-fe237cf032b5
 
 ---
 
@@ -89,6 +93,8 @@ This repository contains a collection of Power BI dashboards built using differe
 - Time intelligence
 - Conditional formatting
 - Data visualisation
+
+**Interactive Dashboard link**: https://app.powerbi.com/links/z8tWVEOR1a?ctid=e09fb069-f13f-45eb-9019-118c726f273d&pbi_source=linkShare
 
 ---
 
