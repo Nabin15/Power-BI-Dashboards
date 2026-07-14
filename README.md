@@ -6,8 +6,6 @@ This repository contains a collection of Power BI dashboards built using differe
 
 ## 1. Sales Insights Dashboard
 
-![Sales Insights Dashboard](Screenshot%202026-07-07%20154711.png)
-
 **Dataset:** Sales transactions
 
 ### Dashboard Highlights
@@ -29,8 +27,6 @@ This repository contains a collection of Power BI dashboards built using differe
 ---
 
 ## 2. AdventureWorks Executive Dashboard
-
-![AdventureWorks Dashboard](Screenshot%202026-07-07%20155252.png)
 
 **Dataset:** AdventureWorks
 
@@ -54,8 +50,6 @@ This repository contains a collection of Power BI dashboards built using differe
 
 ## 3. Maven Market Dashboard
 
-![Maven Market Dashboard](Screenshot%202026-07-07%20155947.png)
-
 **Dataset:** Maven Market
 
 ### Dashboard Highlights
@@ -75,8 +69,6 @@ This repository contains a collection of Power BI dashboards built using differe
 ---
 
 ## 4. Financial Performance Dashboard
-
-![Financial Dashboard](Screenshot%202026-07-12%20160351(1).png)
 
 **Dataset:** Microsoft Financial Sample
 
